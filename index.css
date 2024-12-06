@@ -1,0 +1,9 @@
+body {
+    color: antiquewhite;
+}
+
+.header {
+    display: flex;
+    background-color: rgb(231, 190, 137);
+    flex-direction: row;
+}
